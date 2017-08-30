@@ -1,0 +1,19 @@
+﻿  나라별특성.c
+나라별특성.c(1725): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+나라별특성.c(1755): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(305) : 'scanf' 선언을 참조하십시오.
+나라별특성.c(1772): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+나라별특성.c(1811): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(305) : 'scanf' 선언을 참조하십시오.
+나라별특성.c(1827): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+나라별특성.c(1867): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(305) : 'scanf' 선언을 참조하십시오.
+나라별특성.c(1883): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : 'getch' 선언을 참조하십시오.
+나라별특성.c(1771): warning C4102: 'WHTIE' : 참조되지 않은 레이블입니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  땅따먹기.vcxproj -> C:\Users\gom\documents\visual studio 2010\Projects\땅따먹기\Release\땅따먹기.exe

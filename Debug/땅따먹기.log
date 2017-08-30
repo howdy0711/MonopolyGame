@@ -1,0 +1,8 @@
+﻿  메인.c
+c:\users\gom\documents\visual studio 2010\projects\땅따먹기\땅따먹기\메인.c(45): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  도움말.c
+  나라별특성.c
+c:\users\gom\documents\visual studio 2010\projects\땅따먹기\땅따먹기\나라별특성.c(44): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\gom\documents\visual studio 2010\projects\땅따먹기\땅따먹기\나라별특성.c(259): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  땅따먹기.vcxproj -> C:\Users\gom\documents\visual studio 2010\Projects\땅따먹기\Debug\땅따먹기.exe
